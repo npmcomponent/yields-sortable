@@ -1,0 +1,19 @@
+{
+  "name": "yields-sortable",
+  "description": "UI Sortable component.",
+  "version": "0.3.1",
+  "keywords": [
+    "draggable",
+    "sortable"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-matches-selector": "git://github.com/npmcomponent/component-matches-selector.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "yields-indexof": "git://github.com/npmcomponent/yields-indexof.git"
+  },
+  "license": "MIT"
+}

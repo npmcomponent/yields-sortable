@@ -2,12 +2,12 @@
  * dependencies
  */
 
-var matches = require('matches-selector')
-  , emitter = require('emitter')
-  , classes = require('classes')
-  , events = require('events')
-  , indexof = require('indexof')
-  , each = require('each');
+var matches = require('component-matches-selector')
+  , emitter = require('component-emitter')
+  , classes = require('component-classes')
+  , events = require('component-events')
+  , indexof = require('yields-indexof')
+  , each = require('component-each');
 
 /**
  * export `Sortable`
